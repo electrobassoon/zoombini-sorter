@@ -1,0 +1,25 @@
+{
+  "name": "zoombini-sorter",
+  "version": "0.1.0",
+  "description": "Sort Zoombinis by traits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazzbassoon/zoombini-sorter.git"
+  },
+  "keywords": [],
+  "author": "jazzbassoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazzbassoon/zoombini-sorter/issues"
+  },
+  "homepage": "https://github.com/jazzbassoon/zoombini-sorter",
+  "dependencies": {
+    "lodash": "^3.3.1"
+  },
+  "devDependencies": {}
+}
