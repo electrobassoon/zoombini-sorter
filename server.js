@@ -1,2 +1,2 @@
-var helloWorld = "Hello World!"
-console.log(helloWorld)
+var helloWorld = "Hello World!";
+console.log(helloWorld);
